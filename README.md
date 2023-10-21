@@ -4,6 +4,16 @@ A Graphical User Interface for Compilation, Simulation &amp; Regression of any V
 
 ## WORK IN PROGRESS
 
+Current features
+
+    - User can change compilation and simulation commands via Settings panel
+    - Testcase directory can be configured as well from the Settings panel
+    - User only has to configure the UI once, it will be stored to text file for later use
+    - Added the functionality of Scrolling terminal via middle mouse button
+    - Output can be observed on the terminal window
+
+Need Improvement on the UI design for better User Experience
+
 -------------------
 ** Image-1
 -------------------
