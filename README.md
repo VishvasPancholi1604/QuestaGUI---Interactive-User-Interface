@@ -31,4 +31,4 @@ The above image shows the Settings panel and how the various parameters can be s
 ** Image-3
 -------------------
 ![image](https://github.com/VishvasPancholi1604/QuestaGUI---Interactive-User-Interface/assets/127715418/f3138048-eb53-45da-9bb1-89908f4fa5cb)
-A warning is displayed if any of the parameters are not set-up correctly
+A warning will be displayed if any of the parameters are not set-up correctly
