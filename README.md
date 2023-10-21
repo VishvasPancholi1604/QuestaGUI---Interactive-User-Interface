@@ -1,5 +1,5 @@
 # QuestaGUI---Interactive-User-Interface
-A Graphical User Interface for Compilation, Simulation &amp; Regression of any Verification IP. Optimized for QuestaSIM
+A Graphical User Interface for Compilation, Simulation &amp; Regression of any Verification IP. Currently optimized for QuestaSIM
 
 
 ## WORK IN PROGRESS
