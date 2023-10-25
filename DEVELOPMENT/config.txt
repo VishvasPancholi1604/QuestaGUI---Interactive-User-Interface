@@ -1,4 +1,0 @@
-top module name :- top
-sim directory path :- D:\Questa\Projects\I2C\UVM_I2C_V1\DEVELOPMENT\SIM
-testcase directory path :- D:\Questa\Projects\I2C\UVM_I2C_V1\DEVELOPMENT\TEST
-compilation_command :- vlog..\SRC\ei_i2c_package.sv..\TOP\ei_i2c_top.sv+incdir+..\SRC+incdir+..\ENV+incdir+..\TEST
