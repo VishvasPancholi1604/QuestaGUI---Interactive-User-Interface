@@ -2,9 +2,7 @@
 A Graphical User Interface for Compilation, Simulation &amp; Regression of any Verification IP. Currently optimized for QuestaSIM
 
 
-## WORK IN PROGRESS
-
-Current features
+## Current features
 
     - User can change compilation and simulation commands via Settings panel
     - Testcase directory can be configured as well from the Settings panel
@@ -14,6 +12,15 @@ Current features
     - A warning will be displayed on Terminal if any of the parameters are not set-up correctly
 
 Need Improvement on the UI design for better User Experience
+
+
+## ROADMAP [Features Planned]
+
+    - The main window should contain options to select Verification IP to Compile/Simulate
+    - Multiple Simulator support (i.e. Synopsys VCS)
+    - Verbosity Control Options
+    - UVM Compile-time/Run-time Switches
+    - Further improvement on UI
 
 -------------------
 ** Image-1
