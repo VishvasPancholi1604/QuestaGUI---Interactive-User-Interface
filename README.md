@@ -21,6 +21,7 @@ Need Improvement on the UI design for better User Experience
     - Verbosity Control Options
     - UVM Compile-time/Run-time Switches
     - Further improvement on UI
+    - To add a button for clearing terminal
 
 -------------------
 ** Image-1
